@@ -42,4 +42,4 @@ if (classificacaoXp > nivel7){
     classificacaoXp = "Radiante"
 }
 
-console.log("O Herói de nome " + nomeHeroi + " esta no nível de " + classificacaoXp);
+console.log("O Herói de nome " + nomeHeroi + " está no nível de " + classificacaoXp);
