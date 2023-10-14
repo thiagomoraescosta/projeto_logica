@@ -1,5 +1,6 @@
 let nomeHeroi = "GoKu";
 let xp = 10001;
+let novoXp = "Forte"
 
    if (xp <= 1000){
     novoXp = "Forte";  
